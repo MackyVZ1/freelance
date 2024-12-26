@@ -9,7 +9,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**PCA */}
           <div className="text-center">
             <p className="text-2xl font-medium pt-3">PCA</p>
-            <button onClick={()=> window.open("public/assignment_new/ASC263/PCA/6609655359_PCA.zip")}className="flex rounded-3xl shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl">
+            <button onClick={()=> window.open("/assignment_new/ASC263/PCA/6609655359_PCA.zip")}className="flex rounded-3xl shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://icon-library.com/images/zip-file-icon/zip-file-icon-6.jpg" />
               </div>
@@ -18,7 +18,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**FA */}
           <div className="text-center">
             <p className="text-2xl font-medium pt-3">FA</p>
-            <button onClick={()=> window.open("public/assignment_new/ASC263/FA/6609655359_sirada_hw2_FA.zip")}className="flex rounded-3xl shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={()=> window.open("/assignment_new/ASC263/FA/6609655359_sirada_hw2_FA.zip")}className="flex rounded-3xl shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://icon-library.com/images/zip-file-icon/zip-file-icon-6.jpg" />
               </div>
@@ -31,7 +31,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**Summary Regression Analysis */}
           <div className="text-center">
             <p className="text-2xl font-medium">Summary Regression Analysis</p>
-            <button onClick={()=> window.open("public/assignment_new/ASC263/MLR_RT/Summary Regression Analysis.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={()=> window.open("/assignment_new/ASC263/MLR_RT/Summary Regression Analysis.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://www.science.co.il/internet/browsers/PDF-doc-256.png" />
               </div>
@@ -40,7 +40,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**Data Learning MLR vs RT docx */}
           <div className="text-center">
             <p className="text-2xl font-medium">Data Learning MLR vs RT</p>
-            <button onClick={()=> window.open("public/assignment_new/ASC263/MLR_RT/Data Learning MLR vs RT.docx")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={()=> window.open("/assignment_new/ASC263/MLR_RT/Data Learning MLR vs RT.docx")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://cdn2.iconfinder.com/data/icons/file-format-colorful/100/docx-512.png" />
               </div>
@@ -49,7 +49,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**Data Learning MLR vs RT pdf */}
           <div className="text-center">
             <p className="text-2xl font-medium">Data Learning MLR vs RT</p>
-            <button onClick={() => window.open("public/assignment_new/ASC263/MLR_RT/Data Learning MLR vs RT.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={() => window.open("/assignment_new/ASC263/MLR_RT/Data Learning MLR vs RT.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://www.science.co.il/internet/browsers/PDF-doc-256.png" />
               </div>
@@ -72,7 +72,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**Data Learning LR vs RT pdf */}
           <div className="text-center">
             <p className="text-2xl font-medium">Data Learning LR vs RT</p>
-            <button onClick={()=> window.open("public/assignment_new/ASC263/LR_RT/Data Learning LR vs RT.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={()=> window.open("/assignment_new/ASC263/LR_RT/Data Learning LR vs RT.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://www.science.co.il/internet/browsers/PDF-doc-256.png" />
               </div>
@@ -81,7 +81,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**Data Learning LR vs RT docx */}
           <div className="text-center">
             <p className="text-2xl font-medium">Data Learning LR vs RT</p>
-            <button onClick={()=> window.open("public/assignment_new/ASC263/LR_RT/Data Learning LR vs RT.docx")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={()=> window.open("/assignment_new/ASC263/LR_RT/Data Learning LR vs RT.docx")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://cdn2.iconfinder.com/data/icons/file-format-colorful/100/docx-512.png" />
               </div>
@@ -90,7 +90,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**Code */}
           <div className="text-center">
             <p className="text-2xl font-medium">Code</p>
-            <button onClick={() => window.open("public/assignment_new/ASC263/MLR_RT/Data Learning MLR vs RT.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={() => window.open("/assignment_new/ASC263/MLR_RT/Data Learning MLR vs RT.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://icon-library.com/images/zip-file-icon/zip-file-icon-6.jpg" />
               </div>
@@ -103,7 +103,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**Data Learning LR vs CT pdf */}
           <div className="text-center">
             <p className="text-2xl font-medium">Data Learning LR vs RT</p>
-            <button onClick={()=> window.open("public/assignment_new/ASC263/LR_CT/Data Learning LR vs CT.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={()=> window.open("/assignment_new/ASC263/LR_CT/Data Learning LR vs CT.pdf")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://www.science.co.il/internet/browsers/PDF-doc-256.png" />
               </div>
@@ -112,7 +112,7 @@ const ASC263 = forwardRef((props, ref) => {
           {/**Data Learning LR vs CT docx */}
           <div className="text-center">
             <p className="text-2xl font-medium">Data Learning LR vs RT</p>
-            <button onClick={()=> window.open("public/assignment_new/ASC263/LR_CT/Data Learning LR vs CT word.docx")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
+            <button onClick={()=> window.open("/assignment_new/ASC263/LR_CT/Data Learning LR vs CT word.docx")}className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl ">
               <div className="w-36 h-36 p-auto m-auto">
                 <img src="https://cdn2.iconfinder.com/data/icons/file-format-colorful/100/docx-512.png" />
               </div>

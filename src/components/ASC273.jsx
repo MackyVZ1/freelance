@@ -28,7 +28,7 @@ const ASC273 = forwardRef((props, ref) => {
             <button
               onClick={() =>
                 window.open(
-                  "public/assignment_new/ASC273/งานเดี่ยว/6609655359 ศิรดา บุญหมั่น(FA).zip"
+                  "/assignment_new/ASC273/งานเดี่ยว/6609655359 ศิรดา บุญหมั่น(FA).zip"
                 )
               }
               className="flex rounded-3xl shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl "
@@ -44,7 +44,7 @@ const ASC273 = forwardRef((props, ref) => {
             <button
               onClick={() =>
                 window.open(
-                  "public/assignment_new/ASC273/งานเดี่ยว/6609655359 ศิรดา บุญหมั่น(PCR).zip"
+                  "/assignment_new/ASC273/งานเดี่ยว/6609655359 ศิรดา บุญหมั่น(PCR).zip"
                 )
               }
               className="flex rounded-3xl shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl "
@@ -62,7 +62,7 @@ const ASC273 = forwardRef((props, ref) => {
             <button
               onClick={() =>
                 window.open(
-                  "public/assignment_new/ASC273/งานเดี่ยว/6609655359_ASC273.zip"
+                  "/assignment_new/ASC273/งานเดี่ยว/6609655359_ASC273.zip"
                 )
               }
               className="flex rounded-3xl shadow-md p-auto m-auto w-52 h-52 transition duration-150 hover:shadow-2xl "
@@ -80,7 +80,7 @@ const ASC273 = forwardRef((props, ref) => {
             <button
               onClick={() =>
                 window.open(
-                  "public/assignment_new/ASC273/Clustering/ศิรดา บุญหมั่น 6609655359.zip"
+                  "/assignment_new/ASC273/Clustering/ศิรดา บุญหมั่น 6609655359.zip"
                 )
               }
               className="flex rounded-3xl shadow-md p-auto m-auto  w-52 h-52 transition duration-150 hover:shadow-2xl "
@@ -101,7 +101,7 @@ const ASC273 = forwardRef((props, ref) => {
             <button
               onClick={() =>
                 window.open(
-                  "public/assignment_new/ASC273/Clustering/Grp04_ASC273HACKMC.pdf"
+                  "/assignment_new/ASC273/Clustering/Grp04_ASC273HACKMC.pdf"
                 )
               }
               className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl "
@@ -116,7 +116,7 @@ const ASC273 = forwardRef((props, ref) => {
             <button
               onClick={() =>
                 window.open(
-                  "public/assignment_new/ASC273/Clustering/Grp04_ASC273HACKMC.docx"
+                  "/assignment_new/ASC273/Clustering/Grp04_ASC273HACKMC.docx"
                 )
               }
               className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl "
@@ -200,7 +200,7 @@ const ASC273 = forwardRef((props, ref) => {
             <button
               onClick={() =>
                 window.open(
-                  "public/assignment_new/ASC273/งานในห้องเรียน/6609655391-6609655227-6609655300-6609655359.pdf"
+                  "/assignment_new/ASC273/งานในห้องเรียน/6609655391-6609655227-6609655300-6609655359.pdf"
                 )
               }
               className="flex rounded-3xl p-auto m-auto shadow-md w-52 h-52 transition duration-150 hover:shadow-2xl "
