@@ -1,0 +1,9 @@
+HCA k = 2 python
+https://colab.research.google.com/drive/1pbHzPzP_CrOFNFqTkwdMxxyXl71CNBx6?usp=sharing
+HCA k = 4 python
+https://colab.research.google.com/drive/1e0byvRcg1dJVmt7F6bZedVRVDNjWHwNY?usp=sharing
+HCA k =2 rcode
+https://colab.research.google.com/drive/1qh3ie27AuNrJnb32LVfuudFczFmKvs8c?usp=sharing
+
+// อะไรวะเนี้ย
+https://tuipied.sharepoint.com/:u:/s/Section_1274984B-B510-41A4-8848-8F1FE0DBB4D4/EXG7hJTxDU9Hk_iKJjs8CXwBJMIGOoMKF4eOO2lGJIfScQ
